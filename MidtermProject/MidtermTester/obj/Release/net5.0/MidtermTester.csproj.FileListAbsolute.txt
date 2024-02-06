@@ -1,0 +1,5 @@
+C:\Users\008002205\Desktop\MidtermProject\MidtermTester\obj\Release\net5.0\MidtermTester.csproj.AssemblyReference.cache
+C:\Users\008002205\Desktop\MidtermProject\MidtermTester\obj\Release\net5.0\MidtermTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008002205\Desktop\MidtermProject\MidtermTester\obj\Release\net5.0\MidtermTester.AssemblyInfoInputs.cache
+C:\Users\008002205\Desktop\MidtermProject\MidtermTester\obj\Release\net5.0\MidtermTester.AssemblyInfo.cs
+C:\Users\008002205\Desktop\MidtermProject\MidtermTester\obj\Release\net5.0\MidtermTester.csproj.CoreCompileInputs.cache
