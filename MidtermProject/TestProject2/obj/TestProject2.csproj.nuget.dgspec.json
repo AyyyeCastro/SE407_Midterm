@@ -1,31 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\008002205\\Desktop\\MidtermProject\\TestProject2\\TestProject2.csproj": {}
+    "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\TestProject2\\TestProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\008002205\\Desktop\\MidtermProject\\MidtermProject\\MidtermProject.csproj": {
+    "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\MidtermProject\\MidtermProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\008002205\\Desktop\\MidtermProject\\MidtermProject\\MidtermProject.csproj",
+        "projectUniqueName": "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\MidtermProject\\MidtermProject.csproj",
         "projectName": "MidtermProject",
-        "projectPath": "C:\\Users\\008002205\\Desktop\\MidtermProject\\MidtermProject\\MidtermProject.csproj",
-        "packagesPath": "C:\\Users\\008002205\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\008002205\\Desktop\\MidtermProject\\MidtermProject\\obj\\",
+        "projectPath": "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\MidtermProject\\MidtermProject.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\MidtermProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\008002205\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +41,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -46,7 +54,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -57,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -65,7 +77,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,40 +87,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\008002205\\Desktop\\MidtermProject\\TestProject2\\TestProject2.csproj": {
+    "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\TestProject2\\TestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\008002205\\Desktop\\MidtermProject\\TestProject2\\TestProject2.csproj",
+        "projectUniqueName": "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\TestProject2\\TestProject2.csproj",
         "projectName": "TestProject2",
-        "projectPath": "C:\\Users\\008002205\\Desktop\\MidtermProject\\TestProject2\\TestProject2.csproj",
-        "packagesPath": "C:\\Users\\008002205\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\008002205\\Desktop\\MidtermProject\\TestProject2\\obj\\",
+        "projectPath": "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\TestProject2\\TestProject2.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\TestProject2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\008002205\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\008002205\\Desktop\\MidtermProject\\MidtermProject\\MidtermProject.csproj": {
-                "projectPath": "C:\\Users\\008002205\\Desktop\\MidtermProject\\MidtermProject\\MidtermProject.csproj"
+              "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\MidtermProject\\MidtermProject.csproj": {
+                "projectPath": "D:\\NEIT\\Winter 2024\\SE407\\repo\\SE407_Midterm\\MidtermProject\\MidtermProject\\MidtermProject.csproj"
               }
             }
           }
@@ -116,6 +132,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -149,7 +170,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -158,7 +180,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

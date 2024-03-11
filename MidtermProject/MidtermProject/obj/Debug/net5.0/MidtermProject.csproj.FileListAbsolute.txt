@@ -27,3 +27,18 @@ C:\Users\008002205\Desktop\MidtermProject\MidtermProject\obj\Debug\net5.0\Midter
 C:\Users\008002205\Desktop\MidtermProject\MidtermProject\obj\Debug\net5.0\ref\MidtermProject.dll
 C:\Users\008002205\Desktop\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.pdb
 C:\Users\008002205\Desktop\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.genruntimeconfig.cache
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\bin\Debug\net5.0\MidtermProject.deps.json
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\bin\Debug\net5.0\MidtermProject.runtimeconfig.json
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\bin\Debug\net5.0\MidtermProject.runtimeconfig.dev.json
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\bin\Debug\net5.0\MidtermProject.dll
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\bin\Debug\net5.0\ref\MidtermProject.dll
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\bin\Debug\net5.0\MidtermProject.pdb
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.csproj.AssemblyReference.cache
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.AssemblyInfoInputs.cache
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.AssemblyInfo.cs
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.csproj.CoreCompileInputs.cache
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.dll
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\ref\MidtermProject.dll
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.pdb
+D:\NEIT\Winter 2024\SE407\repo\SE407_Midterm\MidtermProject\MidtermProject\obj\Debug\net5.0\MidtermProject.genruntimeconfig.cache
